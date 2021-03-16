@@ -88,6 +88,7 @@ stats(stats, pokemon) [on pokemon]
 
 	examples: [ability] Swift Swim, [status] Paralysis, etc
 
+I am now editing this document
 
 type(user, target) [on move]
 	Fired when calculating a move's type. Returns the move's type, for
